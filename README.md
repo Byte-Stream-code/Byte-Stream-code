@@ -70,5 +70,5 @@
 </p>
 
 <p> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=byte-stream-code&show_icons =true&locale=en" alt="byte-stream-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=byte-stream-code&show_icons=true&locale=en" alt="byte-stream-code">
 </p>
