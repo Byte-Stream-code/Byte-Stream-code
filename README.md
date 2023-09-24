@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, somos a ByteStream</h1>
-<h3 align="center">Empresa idealizada por @Pedro-H-Braga e @magnus</h3>
+<h3 align="center">Empresa idealizada por @Pedro-H-Braga e @magnstr</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byte-stream-code&label=Profile%20views&color=0e75b6&style=flat" alt="byte-stream-code" /> </p>
 
