@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byte-stream-code&label=Profile%20views&color=0e75b6&style=flat" alt="byte-stream-code" /> </p>
 
-- 👨‍ 💻 Visite nosso site para mais informações e serviços [bytestream.com.br](bytestream.com.br)
+- 💻 Visite nosso site para mais informações e serviços [bytestream.com.br](https://bytestream.com.br)
 
-- 📫 Nós somos de Natal-RN e você pode nos contatar por email: **byte.stream.fr@gmail.com **
+- 📫 Nós somos de Natal-RN e você pode nos contatar pelo email: **byte.stream.fr@gmail.com **
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
